@@ -1,0 +1,25 @@
+{
+  "folders": [
+	{
+		"name": "Portfolio",
+		"path": "."
+	},
+	{
+		"name": "Javascript 2",
+		"path": "../Javascript 2"
+	},
+	{
+		"name": "JS6-.test",
+		"path": "../Javascript/JS6-.test"
+	},
+	{
+		"path": "../../JS/concerts-components"
+	},
+	{
+		"path": "../PHP"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Javascript 2"
+  }
+}

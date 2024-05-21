@@ -1,0 +1,19 @@
+{
+  "name": "Portfolio",
+  "version": "1.0.0",
+  "description": "A project using Tailwind CSS",
+  "main": "Accueil.html",
+  "scripts": {
+    "build": "tailwindcss build src/styles/tailwind.css -o dist/tailwind.css",
+    "dev": "tailwindcss -i src/styles/tailwind.css -o dist/tailwind.css --watch"
+  },
+  "author": "Devon",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.0.0",
+    "postcss": "^8.0.0",
+    "autoprefixer": "^10.0.0"
+  }
+}
+
+
